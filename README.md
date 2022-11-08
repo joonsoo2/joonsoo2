@@ -2,6 +2,9 @@ Joonsoo, LEE
 ------------
 
 
+LinkdIn : [LINK](https://www.linkedin.com/in/joonth/)
+
+
 
 ### Software Engineer in Test & Service QA Engineer @ LINE Pluse Corp
 2021.12 ~ Present
@@ -30,6 +33,9 @@ Joonsoo, LEE
 
     - <BAND> Service QA
     - <NAVER V-Live> Service QA
+    
+
+
 
 -----
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjoonsoo2&count_bg=%2379C83D&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
