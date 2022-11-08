@@ -9,12 +9,14 @@ Joonsoo, LEE
     - <LINE Desktop> Service QA
     - Automation Testing Logging Pipeline Developer
     - Automation Testing for Web, Mobile applcation
+    - JAVA, ELK, Grafana
 
 ### Software Engineer in Test @ Kakaopay Corp
 2020.09 ~ 2021.12
   
     - Develop Automation Testing for Kakakopay service a port of in KakaoTalk
     - Develop Automation Testing Logging Pipeline
+    - JAVA, ELK, Grafana
 
 
 ### Search Platform Infrastucture | DevOps | SRE Engineer @ Lotte Shopping Co., Ltd.
