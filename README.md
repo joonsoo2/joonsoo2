@@ -1,4 +1,4 @@
-# Joonsoo Lee
+# Joonsoo, LEE
 **Senior Software Engineer in Test (SET) | Service QA Engineer**
 
 Experienced Software Engineer in Test with a strong background in QA automation, infrastructure, and technical leadership. Dedicated to enhancing engineering productivity and ensuring software quality at scale.
