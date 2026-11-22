@@ -1,55 +1,75 @@
-# Joonsoo, LEE
-**Senior Software Engineer in Test (SET) | Service QA Engineer**
+# Joonsoo Lee
 
-Experienced Software Engineer in Test with a strong background in QA automation, infrastructure, and technical leadership. Dedicated to enhancing engineering productivity and ensuring software quality at scale.
+**AI Agent Evaluation & Quality Engineering | Senior SDET**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joonth/)
-![Hits](https://img.shields.io/badge/dynamic/json?expand=count&label=Hits&query=count&url=https%3A%2F%2Fapi.countapi.xyz%2Fhit%2Fgithub.com-joonsoo2%2Fvisits&color=brightgreen&style=flat-square)
+English | [한국어](README.ko.md)
 
----
+I focus on AI agent evaluation, building on experience in desktop service QA, performance testing, test automation platforms, and global mobile and web services.
 
-## Professional Experience
+My recent work examines how an agent's responses relate to its tool calls, final data state, and task requirements. I also build test automation and reporting tools, and share engineering practices through technical training and talks.
 
-### **LINE Plus Corp**
-> **Senior Software Engineer in Test & Service QA** | *Dec 2021 – Present*
+[LinkedIn](https://www.linkedin.com/in/joonth/)
 
-* **AI Service QA & Product Lifecycle Management**
-    * Leading QA strategies and operations for **In-house AI services**, managing the end-to-end process from initial launch to production stability.
-    * Ensuring high-quality standards for the **LINE Desktop** application.
-* **Technical Enablement & Productivity Tooling**
-    * Spearheading **Technical Training for Test Engineers (TEs)** to elevate team-wide engineering capabilities.
-    * Developing **internal tools and automation utilities** to streamline testing workflows and maximize operational efficiency.
-* **Quality Engineering**
-    * Architecting **Automation Testing Logging Pipelines** for data-driven quality analysis.
-    * Developing robust automation frameworks for **Web and Mobile** platforms.
-    * *Stack: Java, ELK Stack (Elasticsearch, Logstash, Kibana), Grafana*
+## Current focus
 
-### **Kakaopay Corp**
-> **Software Engineer in Test** | *Sep 2020 – Dec 2021*
+- **Evaluation design:** Define task completion, response quality, and policy compliance as separate evaluation criteria, with repeatable scenarios and initial conditions.
+- **Failure analysis:** Compare conversations, tool behavior, and final state in multilingual evaluations and controlled benchmark experiments.
+- **Automation and traceability:** Connect test specifications, fixtures, assertions, and execution evidence. Track implementation, execution readiness, and test results separately.
+- **Reproducible QA workflows:** Use structured inputs and fixed renderers to prepare consistent Jira and Wiki content.
 
-* Built automation testing suites for **Kakaopay** services within the **KakaoTalk** platform.
-* Developed **Real-time Logging Pipelines** to monitor and analyze test execution data.
-* *Stack: Java, ELK Stack, Grafana*
+## Experience
 
-### **Lotte Shopping Co., Ltd.**
-> **DevOps & SRE Engineer** | *Jan 2019 – Aug 2022*
+### LINE Plus
 
-* Managed search platform infrastructure and SRE for **Lotte-ON** (E-commerce).
+**Service QA Engineer | SDET | AI Agent Evaluation Engineer**
 
-### **Camp Mobile (NAVER Corp)**
-> **Software QA Engineer** | *Feb 2014 – Nov 2017*
+- Work on AI agent quality evaluation.
+- Performed service QA and performance testing for LINE Desktop across Windows, macOS, and Chrome.
+- Developed web and mobile test automation frameworks, test reporting systems, and execution logging pipelines.
+- Built internal QA tools and provided technical training for test engineers.
 
-* QA for global social platforms: **BAND** and **NAVER V-Live**.
+### Kakaopay
 
----
+**Software Engineer in Test**
 
-## Technical Skills
+- Developed and operated a test automation platform for Kakaopay services within KakaoTalk using Java, Appium, and TestNG.
+- Built an ELK logging pipeline to collect and analyze test execution data.
+- Built a remote mobile device farm with CI/CD integration.
 
-| Category | Technologies |
-| :--- | :--- |
-| **Languages** | Java, Python, SQL |
-| **Observability** | Elasticsearch, OpenSearch, Logstash, Kibana, Grafana |
-| **Automation** | Selenium, Appium, JUnit, TestNG |
-| **DevOps** | Docker, Jenkins, AWS, SRE Practices |
+### Lotte Shopping
 
----
+**Search Platform Engineer | DevOps & SRE**
+
+- Worked on LOTTE ON search platform development, ETL data pipelines, and AWS infrastructure.
+- Implemented CI/CD workflows and worked on search performance tuning and SRE.
+
+### Camp Mobile (NAVER Group)
+
+**Software QA Engineer**
+
+- Performed Android, iOS, and web QA for BAND, including test automation and global field testing.
+- Worked on the launch of SNOW as a QA engineer.
+- Performed service QA for NAVER V LIVE.
+
+### We Make Price
+
+**QA Team Lead**
+
+- Led mobile and web QA, release validation, and test process standardization.
+- Performed QA for Black Price promotional events and analyzed image and API performance.
+
+## Speaking
+
+[Visualizing Test Automation with ELK and Grafana](https://tech-verse.me/en/sessions/94) | Tech-Verse 2022
+
+A talk on test execution logging, shared dashboards, and test result visibility.
+
+## Technologies
+
+- **Languages:** Java, Kotlin, Python, SQL
+- **Test automation:** Selenium, Appium, JUnit, TestNG, Allure
+- **Logging and monitoring:** Elasticsearch, OpenSearch, Logstash, Kibana, Grafana
+- **Infrastructure and CI:** Docker, Jenkins, AWS, GCP
+- **Agent tooling:** MCP, JSON-based scenarios, structured QA workflows
+
+![Profile views](https://komarev.com/ghpvc/?username=joonsoo2&label=Profile+views&color=brightgreen&style=flat-square)
